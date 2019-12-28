@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\VacationNotifier\VacationNotifier\bin\Debug\VacationNotifier.exe.config
+C:\Users\Administrator\source\repos\VacationNotifier\VacationNotifier\bin\Debug\VacationNotifier.exe
+C:\Users\Administrator\source\repos\VacationNotifier\VacationNotifier\bin\Debug\VacationNotifier.pdb
+C:\Users\Administrator\source\repos\VacationNotifier\VacationNotifier\obj\Debug\VacationNotifier.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\VacationNotifier\VacationNotifier\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\VacationNotifier\VacationNotifier\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\VacationNotifier\VacationNotifier\obj\Debug\VacationNotifier_MarkupCompile.cache
+C:\Users\Administrator\source\repos\VacationNotifier\VacationNotifier\obj\Debug\VacationNotifier_MarkupCompile.lref
+C:\Users\Administrator\source\repos\VacationNotifier\VacationNotifier\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\VacationNotifier\VacationNotifier\obj\Debug\VacationNotifier.g.resources
+C:\Users\Administrator\source\repos\VacationNotifier\VacationNotifier\obj\Debug\VacationNotifier.Properties.Resources.resources
+C:\Users\Administrator\source\repos\VacationNotifier\VacationNotifier\obj\Debug\VacationNotifier.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\VacationNotifier\VacationNotifier\obj\Debug\VacationNotifier.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\VacationNotifier\VacationNotifier\obj\Debug\VacationNotifier.exe
+C:\Users\Administrator\source\repos\VacationNotifier\VacationNotifier\obj\Debug\VacationNotifier.pdb
